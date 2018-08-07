@@ -76,5 +76,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # spree extension in development
-#gem 'spree_simple_sales', path: '../spree_simple_sales'
+gem 'spree_simple_sales', github: "acousma82/simple_sales"
 
