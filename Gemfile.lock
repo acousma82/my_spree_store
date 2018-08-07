@@ -36,14 +36,6 @@ GIT
       spree_core (>= 3.1.0, < 4.0)
       spree_extension
 
-PATH
-  remote: ../spree_simple_sales
-  specs:
-    spree_simple_sales (0.0.1.alpha)
-      spree_backend (>= 3.1.0, < 4.0)
-      spree_core (>= 3.1.0, < 4.0)
-      spree_extension
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -461,7 +453,6 @@ DEPENDENCIES
   spree_gateway (~> 3.3)
   spree_globalize!
   spree_i18n!
-  spree_simple_sales!
   spring
   spring-watcher-listen (~> 2.0.0)
   sqlite3
