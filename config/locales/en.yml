@@ -32,6 +32,7 @@
 de:
   activerecord:
     attributes:
+
       spree/address:
         address1: Adresse
         address2: Adresse (Fortsetzung)
@@ -441,8 +442,8 @@ de:
         one: Produkt
         other: Produkte
       spree/taxonomy_brands_name:
-        one: Marke/Hersteller
-        other: Marken/Hersteller
+        one: Marken
+        other: Marken
       spree/product_property:
         one: Produkt-Eigenschaft
         other: Produkt-Eigenschaften
